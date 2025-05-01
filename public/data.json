@@ -1,0 +1,312 @@
+[
+  {
+    "name": "The Fool",
+    "meaning": "This card means a new beginning or adventure. It tells you to take a chance and trust the journey.",
+    "keywords": ["new beginnings", "adventure", "trust", "freedom"],
+    "image": "/images/the-fool.jpg",
+    "spread_meanings": {
+      "0": "You may feel ready for a fresh start or a big change. You\u2019re open to new experiences, even if you're unsure where they\u2019ll lead.",
+      "1": "You want freedom, fun, or to break away from routines. You might be craving adventure or a chance to try something new.",
+      "2": "You fear making a foolish mistake or not being taken seriously. You might be worried about not knowing what\u2019s ahead.",
+      "3": "You have a brave, curious spirit. You're open to life and willing to take a leap of faith.",
+      "4": "You might be acting impulsively or ignoring important risks. Carelessness could lead to setbacks.",
+      "5": "A new journey or opportunity is coming. If you trust yourself and stay aware, it will be an exciting path."
+    }
+  },
+  {
+    "name": "The Magician",
+    "meaning": "You have the power to make your dreams real. Use your skills and believe in yourself.",
+    "keywords": ["power", "skills", "action", "confidence"],
+
+    "image": "/images/the-magician.jpg",
+    "spread_meanings": {
+      "0": "You feel confident and ready to make things happen. You know you have what it takes.",
+      "1": "You want to turn your ideas into real things. You\u2019re looking for a chance to show your skills.",
+      "2": "You\u2019re afraid of failure or that you might not be as capable as you hope. Maybe you fear being exposed as a 'fake'.",
+      "3": "You have the tools and talents you need. You\u2019re in a great position to take action.",
+      "4": "You might be overthinking or not using your skills wisely. There\u2019s a risk of manipulation or ego getting in the way.",
+      "5": "If you stay focused and believe in yourself, you\u2019ll succeed. Something you want is within reach."
+    }
+  },
+  {
+    "name": "The High Priestess",
+    "meaning": "This card is about trusting your gut feeling. Some answers come from inside, not outside.",
+    "keywords": ["intuition", "secrets", "inner voice", "mystery"],
+    "image": "/images/the-high-priestess.jpg",
+    "spread_meanings": {
+      "0": "You feel intuitive and in tune with your inner voice. You might be sensing things more than knowing them.",
+      "1": "You want understanding and insight. You're seeking deeper truths and connections.",
+      "2": "You fear the unknown or secrets being revealed. You might be worried about trusting your intuition.",
+      "3": "You have strong intuition and inner wisdom guiding you. You're perceptive and observant.",
+      "4": "You might be too passive or unwilling to face the obvious. You could be holding onto secrets or ignoring your gut feeling.",
+      "5": "Pay attention to your intuition and dreams. Hidden truths may be revealed, leading to greater understanding."
+    }
+  },
+  {
+    "name": "The Empress",
+    "meaning": "This card shows love, care, and creativity. It\u2019s a good time to grow something new or care for others.",
+    "keywords": ["nurturing", "growth", "abundance", "motherhood"],
+    "image": "/images/the-empress.jpg",
+    "spread_meanings": {
+      "0": "You feel nurturing, creative, and connected to nature. You might feel a desire to care for others or create beauty.",
+      "1": "You want to nurture, grow, and enjoy the sensual pleasures of life. You desire harmony and abundance.",
+      "2": "You fear barrenness, neglect, or a lack of creativity. You might worry about not being nurturing enough.",
+      "3": "You have a natural ability to nurture and create. You are likely surrounded by beauty and abundance.",
+      "4": "You might be overindulging or neglecting your own needs while caring for others. There's a risk of smothering or being too controlling.",
+      "5": "Growth, abundance, and nurturing are on the horizon. Embrace your creativity and connect with nature."
+    }
+  },
+  {
+    "name": "The Emperor",
+    "meaning": "You need to take control and be strong. Set rules and lead with confidence.",
+    "keywords": ["authority", "structure", "leadership", "protection"],
+    "image": "/images/the-emperor.jpg",
+    "spread_meanings": {
+      "0": "You feel in control, authoritative, and stable. You might be taking charge or setting boundaries.",
+      "1": "You want order, structure, and achievement. You desire to be respected and in control of your life.",
+      "2": "You fear chaos, loss of control, or being seen as weak. You might worry about being too rigid or authoritarian.",
+      "3": "You are organized, disciplined, and capable of leadership. You have the ability to create stability.",
+      "4": "You might be too rigid, controlling, or unwilling to see other perspectives. You could be creating unnecessary rules.",
+      "5": "Structure and stability will be established. Taking a leadership role with fairness and responsibility will lead to success."
+    }
+  },
+  {
+    "name": "The Hierophant",
+    "meaning": "This card is about learning from tradition or a wise teacher. Follow rules or seek guidance.",
+    "keywords": ["tradition", "spirituality", "education", "beliefs"],
+    "image": "/images/the-hierophant.jpg",
+    "spread_meanings": {
+      "0": "You might feel a need for guidance, tradition, or understanding established systems. You could be seeking knowledge or spiritual wisdom.",
+      "1": "You want understanding, belonging, and to follow established paths or beliefs. You seek wisdom from trusted sources.",
+      "2": "You fear going against tradition or being judged by established authorities. You might worry about being seen as unconventional.",
+      "3": "You have access to wisdom, guidance, and established systems. You are likely learning from experienced individuals or traditions.",
+      "4": "You might be too rigid in your thinking or blindly following tradition without questioning. There's a risk of being dogmatic.",
+      "5": "Guidance and wisdom will be available through established channels. Following ethical and traditional paths may be beneficial."
+    }
+  },
+  {
+    "name": "The Lovers",
+    "meaning": "It\u2019s about love, partnership, or making a big choice. Follow your heart but think carefully too.",
+    "keywords": ["love", "choice", "partnership", "balance"],
+    "image": "/images/the-lovers.jpg",
+    "spread_meanings": {
+      "0": "You might be facing a decision, often related to relationships or values. You could feel a pull in different directions.",
+      "1": "You want harmony, connection, and to make choices aligned with your values and desires. You seek meaningful relationships.",
+      "2": "You fear making the wrong choice or experiencing conflict in relationships. You might worry about divided loyalties.",
+      "3": "You have strong connections and are likely facing a choice that aligns with your heart's desires. There's potential for deep connection.",
+      "4": "You might be indecisive or struggling with conflicting desires. External pressures could be influencing your choices.",
+      "5": "An important decision regarding relationships or values needs to be made. Choosing with your heart and integrity will lead to fulfillment."
+    }
+  },
+  {
+    "name": "The Chariot",
+    "meaning": "You can win if you stay focused and determined. Keep moving forward with control and confidence.",
+    "keywords": ["willpower", "victory", "determination", "direction"],
+    "image": "/images/the-chariot.jpg",
+    "spread_meanings": {
+      "0": "You feel determined, focused, and ready to overcome obstacles. You have a strong will to succeed.",
+      "1": "You want to achieve your goals and move forward with purpose. You desire victory and control over your direction.",
+      "2": "You fear losing control, being defeated, or lacking the willpower to succeed. You might worry about internal conflicts hindering progress.",
+      "3": "You have strong willpower, determination, and focus. You are capable of overcoming challenges.",
+      "4": "You might be too headstrong or aggressive in your approach. Internal conflicts or lack of direction could hinder progress.",
+      "5": "Success will be achieved through focus, determination, and willpower. Overcoming obstacles will lead to victory."
+    }
+  },
+  {
+    "name": "Strength",
+    "meaning": "Real strength comes from kindness and patience. Stay calm and strong inside.",
+    "keywords": ["courage", "inner power", "compassion", "patience"],
+    "image": "/images/strength.jpg",
+    "spread_meanings": {
+      "0": "You feel courageous, compassionate, and in control of your inner power. You might be facing challenges with grace.",
+      "1": "You want inner peace, courage, and the ability to handle challenges with grace and compassion. You seek to master your inner self.",
+      "2": "You fear losing control of your emotions or being overwhelmed by challenges. You might worry about your own inner 'beast'.",
+      "3": "You possess inner strength, courage, and resilience. You have the ability to handle difficult situations with compassion.",
+      "4": "You might be suppressing your emotions or using force instead of gentle strength. There's a risk of being too passive or too aggressive.",
+      "5": "Inner strength and courage will help you overcome challenges. Gentle power and compassion will lead to success."
+    }
+  },
+  {
+    "name": "The Hermit",
+    "meaning": "You may need time alone to think. Look inside yourself for answers and wisdom.",
+    "keywords": ["reflection", "solitude", "wisdom", "searching"],
+    "image": "/images/the-hermit.jpg",
+    "spread_meanings": {
+      "0": "You feel introspective and in need of solitude. You might be seeking answers within yourself.",
+      "1": "You want understanding, wisdom, and clarity through introspection. You desire time for reflection and inner guidance.",
+      "2": "You fear loneliness, isolation, or missing out. You might worry about being misunderstood or forgotten.",
+      "3": "You have a strong inner wisdom and the ability to find answers within yourself. Solitude can bring clarity.",
+      "4": "You might be isolating yourself too much or avoiding necessary interaction. You could be overthinking or becoming too withdrawn.",
+      "5": "A period of introspection will bring clarity and wisdom. Taking time for yourself will lead to deeper understanding."
+    }
+  },
+  {
+    "name": "Wheel of Fortune",
+    "meaning": "Life is always changing. This card means luck or a big shift is coming.",
+    "keywords": ["change", "luck", "cycles", "destiny"],
+    "image": "/images/wheel-of-fortune.jpg",
+    "spread_meanings": {
+      "0": "You might feel like things are changing or that fate is at play. You could be experiencing highs and lows.",
+      "1": "You want things to improve or for a change in circumstances. You desire good luck and positive outcomes.",
+      "2": "You fear bad luck, unexpected downturns, or being at the mercy of fate. You might worry about things getting worse.",
+      "3": "Change is in the air, and cycles are turning. Opportunities for positive change may arise.",
+      "4": "You might be resisting change or feeling powerless in the face of circumstances. Unexpected challenges could arise.",
+      "5": "Change is inevitable. Embracing the cycles of life and adapting to circumstances will lead to growth."
+    }
+  },
+  {
+    "name": "Justice",
+    "meaning": "This card is about truth and fairness. Make sure your choices are honest and fair.",
+    "keywords": ["truth", "law", "fairness", "karma"],
+    "image": "/images/justice.jpg",
+    "spread_meanings": {
+      "0": "You feel a strong need for fairness, balance, and truth. You might be seeking or experiencing consequences.",
+      "1": "You want fairness, honesty, and just outcomes. You desire equilibrium and accountability.",
+      "2": "You fear unfair judgment, injustice, or facing the consequences of your actions. You might worry about imbalance.",
+      "3": "Fairness and truth are on your side. Consequences will be in alignment with actions.",
+      "4": "You might be avoiding responsibility or acting unfairly. Imbalance or legal issues could arise.",
+      "5": "Fairness and balance will be restored. You will reap what you sow, so act with integrity."
+    }
+  },
+  {
+    "name": "The Hanged Man",
+    "meaning": "You may need to pause and see things differently. Sometimes waiting brings new ideas.",
+    "keywords": ["pause", "letting go", "new view", "acceptance"],
+    "image": "/images/the-hanged-man.jpg",
+    "spread_meanings": {
+      "0": "You might feel stuck, in limbo, or needing to see things from a different perspective. You could be making a sacrifice.",
+      "1": "You want a shift in perspective or a release from a difficult situation. You desire deeper understanding through surrender.",
+      "2": "You fear being stuck indefinitely or making a pointless sacrifice. You might worry about losing control or being helpless.",
+      "3": "You are gaining new insights by seeing things differently. A period of waiting can lead to clarity.",
+      "4": "You might be resisting necessary sacrifice or feeling like a victim. You could be prolonging a difficult situation.",
+      "5": "A shift in perspective will bring new understanding. Willing sacrifice may be necessary for future progress."
+    }
+  },
+  {
+    "name": "Death",
+    "meaning": "It means something is ending so something better can begin. Let go of the past and move on.",
+    "keywords": ["ending", "transformation", "new start", "letting go"],
+    "image": "/images/death.jpg",
+    "spread_meanings": {
+      "0": "You might sense an ending or a significant change. You could be letting go of something old to make way for the new.",
+      "1": "You want transformation, release, and the opportunity for new beginnings. You desire to move beyond the past.",
+      "2": "You fear loss, the unknown, or painful endings. You might resist necessary change.",
+      "3": "Transformation and change are inevitable and necessary for growth. Old structures are making way for new ones.",
+      "4": "You might be resisting change or clinging to the past. Fear of the unknown could be holding you back.",
+      "5": "Significant change and transformation are coming. Letting go of the old will create space for new opportunities."
+    }
+  },
+  {
+    "name": "Temperance",
+    "meaning": "Find balance and stay calm. Mix things in your life slowly and carefully.",
+    "keywords": ["balance", "patience", "moderation", "healing"],
+    "image": "/images/temperance.jpg",
+    "spread_meanings": {
+      "0": "You feel balanced, patient, and harmonious. You might be finding middle ground or blending different aspects of your life.",
+      "1": "You want balance, harmony, and peace. You desire integration and finding the right flow.",
+      "2": "You fear imbalance, excess, or a lack of harmony. You might worry about things being too extreme.",
+      "3": "You have the ability to find balance and harmony. Patience and moderation are working in your favor.",
+      "4": "You might be struggling to find balance or indulging in extremes. Impatience could lead to disharmony.",
+      "5": "Balance and harmony will be achieved through patience and moderation. Finding the right blend will lead to positive outcomes."
+    }
+  },
+  {
+    "name": "The Devil",
+    "meaning": "You may feel stuck or controlled by something. Break free from bad habits or fears.",
+    "keywords": ["addiction", "control", "temptation", "traps"],
+    "image": "/images/the-devil.jpg",
+    "spread_meanings": {
+      "0": "You might feel trapped by negative patterns, addictions, or limiting beliefs. You could be aware of unhealthy attachments.",
+      "1": "You want freedom from limitations, negative patterns, or unhealthy attachments. You desire liberation and empowerment.",
+      "2": "You fear being trapped, controlled, or succumbing to negative influences. You might worry about your own dark side.",
+      "3": "You have the awareness of what's holding you back, which is the first step to freedom. You have the power to break free.",
+      "4": "You might be in denial about your limitations or unwilling to break free from unhealthy patterns. You could be giving your power away.",
+      "5": "Facing your limitations and breaking free from negative patterns is necessary for growth. Recognizing your chains is the key to liberation."
+    }
+  },
+  {
+    "name": "The Tower",
+    "meaning": "A sudden change may feel scary. But it helps clear away lies and brings truth.",
+    "keywords": ["shock", "truth", "breakdown", "awakening"],
+    "image": "/images/the-tower.jpg",
+    "spread_meanings": {
+      "0": "You might feel shaken up by sudden change, upheaval, or unexpected events. You could be experiencing a breakdown of old structures.",
+      "1": "You want truth, liberation from false structures, and a fresh start after a period of chaos. You desire authenticity.",
+      "2": "You fear sudden destruction, loss, or chaos. You might resist necessary change and cling to unstable foundations.",
+      "3": "Old, unstable structures are being broken down to make way for something more authentic. Truths are being revealed.",
+      "4": "You might be resisting necessary change or trying to hold onto something that is no longer serving you. The upheaval could be painful.",
+      "5": "Sudden and significant change is coming. While disruptive, it will ultimately lead to a more solid foundation and greater truth."
+    }
+  },
+  {
+    "name": "The Star",
+    "meaning": "This card brings hope and healing. Believe things will get better.",
+    "keywords": ["hope", "peace", "healing", "faith"],
+    "image": "/images/the-star.jpg",
+    "spread_meanings": {
+      "0": "You feel hopeful, inspired, and connected to something larger than yourself. You might be experiencing a sense of peace after a storm.",
+      "1": "You want hope, inspiration, and healing. You desire to connect with your true self and find your purpose.",
+      "2": "You fear losing hope, feeling lost, or not finding your way. You might worry about disillusionment.",
+      "3": "You have hope, inspiration, and a sense of peace. Guidance and healing are available to you.",
+      "4": "You might be feeling disconnected or losing sight of your hopes and dreams. Doubt could be creeping in.",
+      "5": "Hope and inspiration will guide you forward. Trust in the universe and allow healing and guidance to come."
+    }
+  },
+  {
+    "name": "The Moon",
+    "meaning": "Things may be unclear or confusing. Trust your feelings and be careful with decisions.",
+    "keywords": ["illusion", "dreams", "confusion", "intuition"],
+    "image": "/images/the-moon.jpg",
+    "spread_meanings": {
+      "0": "You might feel uncertain, confused, or influenced by illusions and subconscious fears. Things may not be as they seem.",
+      "1": "You want clarity, truth, and to understand what is hidden or unclear. You desire to navigate your subconscious fears.",
+      "2": "You fear the unknown, deception, or being misled. You might worry about your own subconscious fears and anxieties.",
+      "3": "Your intuition is heightened, though it may be difficult to interpret. You are becoming aware of subconscious influences.",
+      "4": "You might be facing illusions, confusion, or hidden enemies. Your fears could be clouding your judgment.",
+      "5": "Trust your intuition, but be aware that things may not be as they appear. Seek clarity and be mindful of subconscious influences."
+    }
+  },
+  {
+    "name": "The Sun",
+    "meaning": "This is a happy card full of joy. Good things are happening and you can feel proud.",
+    "keywords": ["joy", "success", "positivity", "growth"],
+    "image": "/images/the-sun.jpg",
+    "spread_meanings": {
+      "0": "You feel joyful, optimistic, and full of energy. You might be experiencing clarity and success.",
+      "1": "You want happiness, success, and vitality. You desire clarity, truth, and positive outcomes.",
+      "2": "You fear darkness, sadness, or failure. You might worry about losing joy or clarity.",
+      "3": "You are experiencing joy, success, and clarity. Your energy is high, and things are looking bright.",
+      "4": "There are few obstacles in your way. Be mindful of arrogance or taking things for granted.",
+      "5": "A period of happiness, success, and vitality is ahead. Enjoy the good times and share your light with others."
+    }
+  },
+  {
+    "name": "Judgement",
+    "meaning": "It\u2019s time to look at your past and learn from it. Make a fresh start with better choices.",
+    "keywords": ["rebirth", "decisions", "reflection", "awakening"],
+    "image": "/images/judgement.jpg",
+    "spread_meanings": {
+      "0": "You may be going through a period of reflection and realization. You’re starting to see things more clearly, especially about past decisions. You feel like you’re being called to change or grow into a better version of yourself.",
+      "1": "You want a second chance or a fresh start. This could be in relationships, career, or your personal path. You’re hoping to make peace with the past and finally move forward with confidence.",
+      "2": "You may fear being judged by others—or even by yourself. You might be afraid that your past mistakes will hold you back or that you won’t live up to your full potential.",
+      "3": "You are gaining clarity and becoming more honest with yourself. You’re ready to forgive, accept, and grow. This awakening mindset is helping you shed old baggage and start anew.",
+      "4": "You may be stuck in guilt, regret, or self-blame. Perhaps you're avoiding change or ignoring an inner call to take responsibility and move forward. Old habits may be hard to break.",
+      "5": "You will reach a powerful turning point. If you accept what’s happened and make conscious choices, you'll step into a clearer, more fulfilling phase of life. This is your chance for renewal and purpose."
+    }
+  },
+  {
+    "name": "The World",
+    "meaning": "You\u2019ve finished something important. Celebrate your success and get ready for a new journey.",
+    "keywords": ["completion", "success", "wholeness", "achievement"],
+
+    "image": "/images/the-world.jpg",
+    "spread_meanings": {
+      "0": "You feel a sense of completion, fulfillment, and wholeness. You might have reached a significant milestone.",
+      "1": "You want completion, satisfaction, and a sense of achievement. You desire integration and harmony in your life.",
+      "2": "You fear incompletion, feeling stuck, or not reaching your goals. You might worry about things falling apart at the last minute.",
+      "3": "You are nearing the completion of a cycle and experiencing a sense of fulfillment. Success and integration are within reach.",
+      "4": "You might be resisting completion or feeling a lack of closure. Minor delays or final hurdles may need to be overcome.",
+      "5": "A significant cycle is coming to a successful end, bringing fulfillment and a sense of accomplishment. You are ready for new beginnings."
+    }
+  }
+]
