@@ -2,19 +2,19 @@
 
 import { AnimatePresence, motion } from "framer-motion";
 import Image from "next/image";
-import { Dispatch, SetStateAction, useState } from "react";
+import { Dispatch, SetStateAction } from "react";
 import { toast } from "react-toastify";
 
 export default function TarotDeck({
   selectedCards,
   setSelectedCards,
 }: {
-  selectedCards: Number[];
+  selectedCards: number[];
   setSelectedCards: Dispatch<SetStateAction<number[]>>;
 }) {
   const totalCards = 22;
   const cards = Array.from({ length: totalCards }, (_, i) => i);
-  const overlap = 10; // px overlap between cards
+  //   const overlap = 10; // px overlap between cards
 
   const handleCardClick = (i: number) => {
     if (selectedCards.length >= 6) {

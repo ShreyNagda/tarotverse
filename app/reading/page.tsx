@@ -5,7 +5,6 @@ import NoteSlider from "@/components/NoteSlider";
 import { useEffect, useRef, useState } from "react";
 import { toast } from "react-toastify";
 import Image from "next/image";
-import { div } from "framer-motion/client";
 import Link from "next/link";
 
 type TarotCard = {
@@ -60,7 +59,7 @@ export default function Reading() {
       toast.error("Please select 6 cards");
       return;
     }
-    let readingResult: ReadingResult[] = [];
+    const readingResult: ReadingResult[] = [];
     for (let index = 0; index < selectedCards.length; index++) {
       const currentCard: TarotCard = cards![index];
       readingResult.push({
@@ -74,29 +73,29 @@ export default function Reading() {
     setResult(readingResult);
   };
 
-  const handleSaveAsPdf = async () => {
-    const resultHtml = document.getElementById("result")?.outerHTML;
-    const response = await fetch("/api/generate-pdf", {
-      method: "POST", // API route should be checking for POST
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({ html: resultHtml }), // send empty object if no payload needed
-    });
+  // const handleSaveAsPdf = async () => {
+  //   const resultHtml = document.getElementById("result")?.outerHTML;
+  //   const response = await fetch("/api/generate-pdf", {
+  //     method: "POST", // API route should be checking for POST
+  //     headers: {
+  //       "Content-Type": "application/json",
+  //     },
+  //     body: JSON.stringify({ html: resultHtml }), // send empty object if no payload needed
+  //   });
 
-    if (!response.ok) {
-      const errorText = await response.text();
-      console.error("PDF generation failed:", errorText);
-      return alert("Failed to generate PDF");
-    }
+  //   if (!response.ok) {
+  //     const errorText = await response.text();
+  //     console.error("PDF generation failed:", errorText);
+  //     return alert("Failed to generate PDF");
+  //   }
 
-    const blob = await response.blob();
-    const url = window.URL.createObjectURL(blob);
-    const a = document.createElement("a");
-    a.href = url;
-    a.download = "result.pdf";
-    a.click();
-  };
+  //   const blob = await response.blob();
+  //   const url = window.URL.createObjectURL(blob);
+  //   const a = document.createElement("a");
+  //   a.href = url;
+  //   a.download = "result.pdf";
+  //   a.click();
+  // };
 
   return (
     <div className="min-h-svh bg-gradient-to-b from-purple-900 via-purple-800 to-purple-900 text-white text-center">
@@ -189,7 +188,4 @@ export default function Reading() {
       )}
     </div>
   );
-}
-function html2pdf() {
-  throw new Error("Function not implemented.");
 }

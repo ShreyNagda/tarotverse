@@ -58,7 +58,7 @@ export default function NoteSlider() {
       setCurrentIndex((prev) => (prev == data.length - 1 ? 0 : prev + 1));
     }, 4000);
     return () => clearInterval(interval);
-  }, []);
+  }, [data.length]);
   return (
     <div className="p-4 space-y-2 max-w-[300px] md:max-w-full mx-auto">
       <div className="md:text-xl">Tips to improve the readings</div>
