@@ -23,6 +23,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <link rel="shortcut icon" href="images/icon.png" type="image/png" />
       <body className={`${inter.className}`}>
         <ToastContainer position="top-center" hideProgressBar />
         {children}
